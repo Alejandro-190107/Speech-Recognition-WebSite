@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@100&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+li{
+    font-size: 1.85rem;
+}
+
+.container {
+    padding: 40px;
+    margin: 0 auto;
+    max-width: 1000px;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.tittle-card-me{
+    color: #7283a7;
+    font-family: 'Cabin Sketch', cursive;
+    font-weight: 700;
+}
+
+.text-card-me{
+    color: black;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.form-me {
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    position: relative;
+  }
+  
+.form-me button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    width: 3rem;
+    text-align: center;
+    font-size: 1.25rem;
+    cursor: pointer;
+    color: black;
+}
+
+.card-header{
+    color: white;
+    font-family: 'Cormorant Upright', serif;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #7283a7;
+}
+  
+.list-info{
+    color: black;
+    font-family: 'Rokkitt', serif;
+    font-weight: 600;
+    font-size: 15px;
+    text-align: left;
+}
+
+.card-text{
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+}
+
+.help-tittle{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+.help-info{
+    color: black;
+    font-size: 15px;
+    text-align: justify;
+}
+.help-subinfo{
+    color: grey;
+    font-size: 12px;
+    text-align: justify;
+    margin-left: 5%;
+}
+.button-help{
+    margin-top: 2%;
+}
+.modal-title{
+    color: black;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Cormorant Upright', serif;
+}
+.help-list-info{
+    color: #7283a7;
+    font-family: 'Rokkitt', serif;
+    font-weight: 600;
+    font-size: 15px;
+    text-align: left;
+
+}

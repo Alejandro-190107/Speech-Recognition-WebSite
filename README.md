@@ -25,6 +25,6 @@ Learn how to add `Speech Recognition` to your websites and web applications with
 
 ## <p align="left" style="color: #7986cb;"> Screenshot Project 💻 </p>
 
-🔶 [Project Website](https://alejandro-lopez.futuretecware.com/Speech-Recognition-WebSite/index.html)
+🔶 [Project Website](https://alejandro-190107.github.io/Speech-Recognition-WebSite/)
 
 ![Screenshot](assets/img/Screenshot.png)
